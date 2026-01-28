@@ -6,9 +6,9 @@ from email.mime.text import MIMEText
 INTERVAL = "1m"
 THRESHOLD = 0.04  # %
 
-EMAIL_FROM = "YOUR_EMAIL@gmail.com"
-EMAIL_TO = "YOUR_EMAIL@gmail.com"
-EMAIL_APP_PASSWORD = "YOUR_APP_PASSWORD"
+EMAIL_FROM = "mohitjain24229@gmail.com"
+EMAIL_TO = "mohitjain24229@gmail.com"
+EMAIL_APP_PASSWORD = "suwaldovseihlcds"
 
 SYMBOLS = [
     "BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT", "XRPUSDT",
